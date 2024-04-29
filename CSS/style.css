@@ -46,3 +46,16 @@ td {
     border-bottom: 2px solid antiquewhite;
     padding: 10px;
 }
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+img {
+    width: 250px;
+    aspect-ratio: 1/1;
+margin-inline: 50px;
+    border-radius: 40px;
+}
